@@ -1,6 +1,6 @@
 package org.skywalking.springcloud.test.projecta.service;
 
-import org.skywalking.apm.toolkit.trace.TraceContext;
+import org.apache.skywalking.apm.toolkit.trace.TraceContext;
 import org.skywalking.springcloud.test.projecta.vo.Result;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
